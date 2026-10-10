@@ -9,4 +9,11 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite. Run `npm run build` to make a production build.
+Open the local URL printed by Vite. To create a production build, run `npm run build`.
+
+## Included interactions
+
+- Filter sample sneakers by brand new and pre-loved
+- Add or remove pairs in the bag
+- Continue a sample order through WhatsApp
+- Responsive navigation and sample email signup feedback
